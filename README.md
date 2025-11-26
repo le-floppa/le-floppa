@@ -1,16 +1,16 @@
-## Hi there 👋
+## hi chat
+idk what to write here tbh so idk jus do smth
 
-<!--
-**le-floppa/le-floppa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## my projects
+-> legit none yet so yh
+-> maybe soon tho
 
-Here are some ideas to get you started:
+## abt me
+- im german
+- i like germany bcs its german
+- im also russian
+- i cant do stuff
+- i break scripts
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## cats
+i like cats
