@@ -2,8 +2,8 @@
 idk what to write here tbh so idk jus do smth
 
 ## my projects
--> legit none yet so yh
--> maybe soon tho
+- legit none yet so yh
+- maybe soon tho
 
 ## abt me
 - im german
