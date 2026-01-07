@@ -14,3 +14,9 @@ idk what to write here tbh so idk jus do smth
 
 ## cats
 i like cats
+
+## sea lions
+they cool n silly or smth
+
+##
+self made script breaker in luau, javascript and maybe someday rust too
