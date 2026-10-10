@@ -2,15 +2,15 @@
 idk what to write here tbh so idk jus do smth
 
 ## my projects
-- legit none yet so yh
-- maybe soon tho
+- owner of a company that i own so i finally do have a "project"
+- maybe NOW!!! tho
 
 ## abt me
 - im german
-- i like germany bcs its german
+- i like germany
 - im also russian
 - i cant do stuff
-- i break scripts
+- i break code
 
 ## cats
 i like cats
